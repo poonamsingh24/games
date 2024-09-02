@@ -15,7 +15,7 @@ export default function Header() {
           All Games
         </Link>
         <div>
-          <button className="bg-gray-600 hover:bg-gray-500 px-5 py-2  font-bold">
+          <button className="bg-blue-500 hover:bg-blue-600 px-5 py-2  font-bold">
             Login
           </button>
         </div>
