@@ -19,7 +19,7 @@ export default function HomePage() {
               <input
                 type="text"
                 placeholder="Search..."
-                className="w-full outline-none px-4 md:py-3"
+                className="flex-1 outline-none px-4 md:py-3"
               />
               <button className="text-black bg-white px-5 py-2 outline-none font-bold">
                 Search
