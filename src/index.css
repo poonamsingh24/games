@@ -1,0 +1,12 @@
+body {
+  background: url("../public/blue-bg.jpg");
+  background-position: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
